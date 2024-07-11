@@ -14,12 +14,12 @@ This repository contains Scilab-based simulations and experiments to solve vario
 
 2. **Atom with Screened Coulomb Potential**
    - Solved the s-wave radial Schrodinger equation for an atom with a screened Coulomb potential.
-   - Found the ground state energy for \(a = 3 \, \text{Å}, 5 \, \text{Å}, 7 \, \text{Å}\) to three significant digits and plotted the wavefunction.
+   - Found the ground state energy  to three significant digits and plotted the wavefunction.
    
 
 3. **Anharmonic Oscillator Potential**
    - Solved the s-wave radial Schrodinger equation for a particle in an anharmonic oscillator potential.
-   - Determined the ground state energy for \(b = 0, 10, 30 \, \text{MeV fm}^{-3}\) to three significant digits and plotted the wavefunction.
+   - Determined the ground state energy to three significant digits and plotted the wavefunction.
   
 
 4. **Vibrations of Hydrogen Molecule**
